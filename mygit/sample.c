@@ -6,5 +6,6 @@ void main()
 	scanf("%d %d",&a,&b);
 	printf("%d",a+b);
 	printf("this is addition ");
-	printf("Hello")
+	printf("Hello");
+	
 }
